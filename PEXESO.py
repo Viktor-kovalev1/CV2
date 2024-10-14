@@ -4,7 +4,6 @@ from matplotlib import pyplot as plt
 from random import shuffle
 
 # создаем черный прямоугольник, если пара угадана
-# каккого @#$ не работает?????????????( не могу объединить с другими картинками)
 # def black_rectangle():
 #     img=np.array([[[0,0,0]for i in range(100)]for i in range(200)])  
 #     return img
